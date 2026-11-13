@@ -1,7 +1,7 @@
 <a href="https://t.me/abobaid">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg" />
-  <img src="assets/hero-light.svg" width="100%" alt="Даниил, fullstack-разработчик. PWA для сотрудников компании, от требований до релиза, Next.js + NestJS. Сейчас: разработка с ИИ, MCP, OpenSpec. Напиши мне в Telegram: @abobaid" />
+  <img src="assets/hero-light.svg" width="100%" alt="Даниил, fullstack-разработчик. PWA для сотрудников компании, от требований до релиза, Next.js + NestJS. Сейчас: разработка с ИИ, MCP, OpenSpec. Мой Telegram: @abobaid" />
 </picture>
 </a>
 
